@@ -6,4 +6,3 @@
 #### ( It's too easy, isn't it? ☺)
 ##### For Admin Panel Use Username: "Admin" Password: "admiN"
 
-#### #mini project #voting system #c project
