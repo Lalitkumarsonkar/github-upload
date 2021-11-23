@@ -1,3 +1,3 @@
 # github-upload
-I Done all
+I Done all.
 very nice experience. 
